@@ -37,7 +37,7 @@ git rm text.txt
 git status
 - Сделать коммит:
 
-- git commit -a -m "Commit description"
+git commit -a -m "Commit description"
 
 Сделать коммит, введя его описание с помощью $EDITOR:
 
