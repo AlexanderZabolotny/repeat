@@ -221,3 +221,6 @@ git submodule update
 Сделайте коммит;
 Удалите файлы сабмодуля;
 Удалите каталог .git/modules/имя_сабмодуля;
+
+- Что-то новое или измененное в репо
+git whatchanged origin/master -n 1
